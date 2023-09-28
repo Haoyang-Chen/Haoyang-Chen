@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Haoyang-Chen
-- 👀 I’m interested in Reinforcement Learning
-- 🌱 I’m currently learning Multi-Agent Reinforcement Learning
+- 👀 I’m interested in Human Computer Interaction and Reinforcement Learning
+- 🌱 I’m currently working as a Research Assistant @ NUS
 - 📫 How to reach me : email haoyang.chen5@icloud.com
 
 <!---
